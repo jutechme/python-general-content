@@ -1,0 +1,65 @@
+list(range(1,100))
+list vai criar uma lista
+exemplo:
+texto = "Python"
+lista = list(texto)   # Converte a string em uma lista ['P', 'y', 't', 'h', 'o', 'n']
+tupla = tuple(range(1,100))
+conjunto = set(range(1,100))
+len comprimento da lista
+
+minha_lista = [10,15,20,25]
+indice = minha_lista = [1]
+print(indice)
+sum =vai somar a lista inteira
+soma = sum(minha_lista)
+print = (soma)
+max = maior da lista 
+min = menor da lista
+sort = vai organizar alista do maior para o menor (reverse=true)
+
+minha_lista = [10,15,20,25]
+maior = max(minha_lista)
+append = vai adicionar numero a lista
+n1 = float(input('digite uma nota')
+n2 = float(input('digite uma nota')
+n3 = float(input('digite um nota')
+notas.append(n1)
+notas.append(n2)
+notas.append(n3)
+media = sum(notas)/len(notas)
+print('notas',nnotas
+
+
+
+
+mensagem = ('ola,bem vindo')
+print(mensagem)
+
+var1 = (10!= 20)
+print(var1)
+
+var2 =int(input('digite um numero'))
+var3 =int(input('digite um numero'))
+var4 = (var2 * var3)
+print(var4)
+
+var5 =int(input('digite um numero'))
+var6 =int(input('digite um numero'))
+var7 = (var5/var6)
+print(var7)
+
+var8 =int(input('digite um nuemro'))
+var9 =int(input('digite um nuemro'))
+var10 =int(input('digite um nuemro'))
+var11 =int(input('digite um nuemro'))
+var12= (var8 * var9 * var10* var11)
+print(var12)
+
+var13 =int(10)
+dobro = (var13 **2)
+print(dobro)
+
+var1 =int(input('digite um numero'))
+var2 =int(input('digite um numero'))
+var3 = (var1+var2)
+print (var3)
