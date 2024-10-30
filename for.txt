@@ -1,0 +1,21 @@
+#for é usado para looping
+for n in range (10):
+    print(n)
+#pass é usado para nao precisar dar espaço no print
+for variavel in range(1,13,4):
+    pass
+print (variavel)
+#pass é usado para nao precisar dar espaço no print
+for d in list(range(1,16,4)):
+    pass
+print(d)
+.......................................................
+lista= []
+for n in range(0,8):
+    pass
+print ('Cadastre-se')
+nome= input('digite seu nome:')
+idade= input('digite seu idade:')
+email= input('digite seu email:')
+print('obrigada proximo cliente:')
+lista +=(nome)
