@@ -1,0 +1,49 @@
+import os 
+#with open ('teste.txt', 'r') as arq:
+   # c = arq.read()
+    #nmr = float(c)
+    #soma = nmr + 20
+    #print(soma)
+#import os
+
+#with open('arquivo.xlsx', 'w') as arquivo:
+        #os.mkdir('criar_nova_pasta')
+
+# os.rename('ar.py', 'y.py')
+
+with os.scandir('C:/Users/aluno/aula 12') as pasta:
+   for p in pasta:
+      print('arquivos', p.name)
+# import os
+# with open('arq','w') as arq:
+#     os.mkdir('crie_arquivo')
+# os.rename('arq','python')
+
+# import shutil
+# shutil.rmtree('c:/Users/aluno/aula 12/criar_nova_pasta/')
+# with os.scandir('crie_arquivo') as entrada:
+#      for arquivo in entrada:
+#         if arquivo.is_file():
+#             print(f'arquivo encotrado:{arquivo.name}')
+# import shutil
+# shutil.copytree('crie_arquivo','copia')
+# n= 10 
+# match n:
+#  case 0>
+#   print('é zero')
+#   case 1:
+#   print('e um')
+#   case 2:
+#   print('é dois')
+#   case _:
+#  print('desconhecido')
+    
+# n= 10
+# x= 20
+# match n,x:
+# case 0,20,10:
+#     print('teste 1')
+# case 20,50,0:
+#     print('teste 2')
+# case 1,2,3:
+#    print('teste 3')
